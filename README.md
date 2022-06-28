@@ -6,7 +6,7 @@ Descripción
 
 Hola 👋 esta es mi primera prueba Tecnica para Glikr!
 
-* 🖥️  Link del proyecto en vivo! <a href="https://rick-and-morty-six-eta.vercel.app/" target="_blank" rel="noreferrer">https://rick-and-morty-six-eta.vercel.app/</a>
+* 🖥️  Link del proyecto en vivo! <a href="https://glikr.vercel.app/" target="_blank" rel="noreferrer">https://glikr.vercel.app/</a>
 
 ### Lenguajes, Frameworks!
 
