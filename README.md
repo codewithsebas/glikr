@@ -17,7 +17,7 @@ Hola 👋 esta es mi primera prueba Tecnica para Glikr!
 
 ### Preview
 
-<img src="https://res.cloudinary.com/dovavvnjx/image/upload/v1656389675/1_prerak.png" alt="Preview">
+<img src="https://res.cloudinary.com/dovavvnjx/image/upload/v1656389675/1_prerak.png" alt="Name">
 
 <img src="https://res.cloudinary.com/dovavvnjx/image/upload/v1656389678/2_ks6shk.png" alt="Preview">
 
