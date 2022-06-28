@@ -120,7 +120,7 @@ h4 {
 /* FINISH ROUNDS */
 .containerFinishRounds {
     background-color: rgb(150, 184, 72);
-    width: 400px;
+    width: 500px;
     height: 95vh;
     border-radius: 5px;
 }
@@ -128,7 +128,7 @@ h4 {
 /* ROUND ONE FINISH */
 .containerFinish {
     background-color: rgb(72, 135, 184);
-    width: 400px;
+    width: 500px;
     height: 95vh;
     border-radius: 5px;
 }
@@ -166,7 +166,7 @@ h4 {
 /* GAME OVER */
 .containerOver {
     background-color: rgb(255, 31, 31);
-    width: 400px;
+    width: 500px;
     height: 95vh;
     border-radius: 5px;
 }
